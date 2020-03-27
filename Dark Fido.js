@@ -33,10 +33,10 @@ addGlobalStyle('.left-off-canvas-menu .left-menu-dock {color: rgb(150, 234, 255)
 addGlobalStyle('.card-new .card-feature-image {position: relative;padding-top: 50%;background-color: rgba(255, 224, 204, 0.5);}');
 addGlobalStyle('background-color: rgba( 52, 156, 217, 0.1 );}');
 addGlobalStyle('.calendar-list {list-style: none;margin: 0;padding: 0;padding-right: 0px;padding-left: 0px;clear: both;background-color: rgba(77,144,201,0);}');
-addGlobalStyle('.card-new .card-feature-image {opacity: 0.5!important}');
-addGlobalStyle('ul.tileList {opacity: 0.5}');
-addGlobalStyle('.swiper-container .swiper-slide img {opacity: 0.5}');
-addGlobalStyle('.calendar-list {opacity: 0.5;}');
+addGlobalStyle('.card-new .card-feature-image {opacity: 0.75!important}');
+addGlobalStyle('ul.tileList {opacity: 0.75}');
+addGlobalStyle('.swiper-container .swiper-slide img {opacity: 0.75}');
+addGlobalStyle('.calendar-list {opacity: 0.75;}');
 addGlobalStyle('.tabs {background: rgb(36, 36, 36);}');
 addGlobalStyle('.tabs dd.active > a, .tabs .tab-title.active > a {color: #ffffff;}');
 addGlobalStyle('.right-off-canvas-menu {background-color: rgb(18, 18, 18);');
@@ -48,15 +48,18 @@ addGlobalStyle('::selection {color: #000;background-color: #fff;');
 addGlobalStyle('table tr th, table tr td {color: rgba(0,0,0,1);');
 addGlobalStyle('#component-layout .column-right .island section {color: rgba(42, 42, 42, 0.970);background-color: rgba(255, 5, 5, 0)!important;}');
 addGlobalStyle('table thead {background: #808080;}')
-addGlobalStyle('.meta {color: rgba(0, 0, 0, 1);-webkit-text-stroke-width: 0px;-webkit-text-stroke-color: white;margin: 0 0 0.375rem 0;font-size: 0.8125rem;font-style: italic;}')
+addGlobalStyle('.meta {color: rgba(255, 255, 255, 0.85);-webkit-text-stroke-width: 0px;-webkit-text-stroke-color: white;margin: 0 0 0.375rem 0;font-size: 0.8125rem;font-style: italic;}')
 addGlobalStyle('.island section {color: rgba(42, 42, 42, 0.970);background-color: rgb(0, 0, 0)!important;}')
 addGlobalStyle('article > :first-child, .cke_editable > :first-child {margin-top: 0;opacity: 1;}')
 addGlobalStyle('.component-titlebar {background-color: rgba(229, 239, 247, 0.5)!important;}')
 addGlobalStyle('.island section {color: rgba(255, 255, 255, 0.75) !important;}')
 addGlobalStyle('.tab-bar {background: #404040;}')
-addGlobalStyle('table {background: rgb(42,42,42);}')
-addGlobalStyle('table tr.even, table tr.alt, table tr:nth-of-type(2n) {background: rgb(42,42,42);}')
+addGlobalStyle('table {background: rgb(100,100,100,0.5);}')
+addGlobalStyle('table tr.even, table tr.alt, table tr:nth-of-type(2n) {background: rgb(100,100,100,0.5);}')
 addGlobalStyle('.timetable-subject{opacity:0.75}');
-addGlobalStyle('img {display: inline-block;vertical-align: middle;opacity: 0.5;}');
+addGlobalStyle('img {display: inline-block;vertical-align: middle;opacity: 0.75;}');
+addGlobalStyle('.grid > li {padding: 0 !important;border-right: 1px solid rgba(255, 255, 255, 0.5);border-bottom: 1px solid rgba(255, 255, 255, 0.5);}');
 addGlobalStyle('');
-;})();
+addGlobalStyle('');
+addGlobalStyle('');
+addGlobalStyle('');;})();
