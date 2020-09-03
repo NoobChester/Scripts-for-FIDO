@@ -4,12 +4,11 @@
 // @description  Skip FIDO login page
 // @author       Chester Au
 // @match        https://adfs.asas.qld.edu.au/adfs/ls/*
-// @grant        none
+// @require      http://code.jquery.com/jquery-3.5.1.slim.min.js
 // ==/UserScript==
 
-(function() {
-    'use strict';
-
-    document.getElementById('submitButton').dispatchEvent(new MouseEvent("click"));
-
+$(function() {
+    setTimeout(function(){
+        document.getElementById('submitButton').dispatchEvent(new MouseEvent("click"));
+    }, 314);
 })();
