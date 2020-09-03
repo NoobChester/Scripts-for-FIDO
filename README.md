@@ -1,5 +1,5 @@
-# MOVED TO GITHUB GIST
-
+# MOVED TO GITHUB GIST!!!
+https://gist.github.com/NoobChester
 # Scripts-for-FIDO
 1. Skip FIDO login
 
