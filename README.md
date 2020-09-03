@@ -1,3 +1,5 @@
+# MOVED TO GITHUB GIST
+
 # Scripts-for-FIDO
 1. Skip FIDO login
 
