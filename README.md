@@ -1,5 +1,5 @@
 # Scripts-for-FIDO
-1. Skip FIDO login
+# 1. Skip FIDO login
 Skips the annoying FIDO login page by auto-clicking "login" (needs auto-fill to be active)
 
 MUST HAVE autofill activated!
@@ -12,7 +12,7 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
 
 1.2: Added a slight delay which helps with the script loading before autofill does its job.
 
-2. Dark FIDO (incomplete)
+# 2. Dark FIDO (incomplete)
 
 Dark mode for FIDO
 
