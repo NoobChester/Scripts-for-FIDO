@@ -228,11 +228,11 @@ a.submit:hover,
 }
 
 .tile {
-    opacity: 0.75;
+    opacity: 0.5;
 }
 
 .tile:hover {
-    opacity: 0.5;
+    opacity: 0.75;
 }
 
 .empty-state {
