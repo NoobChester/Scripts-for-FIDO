@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Skip FIDO login
-// @version      0.2.1
+// @version      1.2
 // @description  Skip FIDO login page
 // @author       NoobChester
 // @match        https://adfs.asas.qld.edu.au/adfs/ls/*
