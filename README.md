@@ -14,7 +14,7 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
 
 1.3: added loop for better speed and stability.
 
-You could now replace your student image too! https://noobchester.github.io/Scripts-for-FIDO/
+You could now replace your student image with an image or gif too! https://noobchester.github.io/Scripts-for-FIDO/
 
 # 2. Dark FIDO
 
