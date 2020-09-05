@@ -7,8 +7,23 @@
 // @require      http://code.jquery.com/jquery-3.5.1.slim.min.js
 // ==/UserScript==
 /* globals jQuery, $, waitForKeyElements */
+
+document.getElementById('submitButton').dispatchEvent(new MouseEvent("click"));
+
+$(function() {
+    setTimeout(function(){
+        document.getElementById('submitButton').dispatchEvent(new MouseEvent("click"));
+    }, 31);
+});
+
 $(function() {
     setTimeout(function(){
         document.getElementById('submitButton').dispatchEvent(new MouseEvent("click"));
     }, 314);
+});
+
+$(function() {
+    setTimeout(function(){
+        document.getElementById('submitButton').dispatchEvent(new MouseEvent("click"));
+    }, 3141);
 });
