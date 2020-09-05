@@ -11,6 +11,7 @@ Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjoj
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
 
 1.2: Added a slight delay which helps with the script loading before autofill does its job.
+1.3: added loop for better speed and stability.
 
 # 2. Dark FIDO
 
