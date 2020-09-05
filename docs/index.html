@@ -4,12 +4,21 @@
 <p>Enter image link here:</p>
 <textarea id="link"></textarea>
 <button type="button" onclick="submit()">Submit</button>
+<br><br><br>
+<p>You need to stylus extension to load this</p>
+<p>Step one: Install extension</p>
+<p>Step two: Go to FIDO, click the extension widget and click "write style for...."</p>
+<p>Step three: Paste and save</p>
+<p>chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en</p>
+<p>firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/</p>
+
 <script>
 function submit() {
   var x, text;
   x = document.getElementById("link").value; 
   text = 
-  `#profile-drop.account-menu {
+  `@-moz-document url-prefix("https://fido.asas.qld.edu.au/") {
+#profile-drop.account-menu {
 	padding-left: 72px !important;
 	padding-top: 72px !important;
 	background: url("`
