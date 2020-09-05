@@ -12,7 +12,7 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey
 
 1.2: Added a slight delay which helps with the script loading before autofill does its job.
 
-# 2. Dark FIDO (incomplete)
+# 2. Dark FIDO
 
 Dark mode for FIDO
 
