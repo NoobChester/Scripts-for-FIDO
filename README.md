@@ -29,3 +29,8 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 Opera: https://addons.opera.com/en/extensions/details/stylus/
 
 1.3: Great visual improvement!
+
+# 3. FIDO Clock
+Adds a clock to FIDO
+
+Needs a scriptloader too, see "1. Skip FIDO login"
