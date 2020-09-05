@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FIDO clock
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  FIDO CLOCK
 // @author       NoobChester
 // @match        https://fido.asas.qld.edu.au/*
@@ -12,6 +12,6 @@
 $(function() {
     var d = new Date();
     var n = d.toLocaleTimeString();
-    let app = document.querySelector('#container');
-    app.prepend(n);
+    let app = document.querySelector('h1');
+    app.append(" [" + n + "]");
 });
