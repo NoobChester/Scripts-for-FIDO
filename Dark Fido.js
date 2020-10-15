@@ -231,6 +231,10 @@ a.submit:hover,
     opacity: 0.5;
 }
 
+.card-class-image {
+    opacity: 0.5;
+}
+
 .tile:hover {
     opacity: 0.75;
 }
