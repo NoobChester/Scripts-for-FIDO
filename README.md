@@ -29,6 +29,7 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 Opera: https://addons.opera.com/en/extensions/details/stylus/
 
 1.3: Great visual improvement!
+
 1.3.1: Removes white stripe below the name list
 
 # 3. FIDO Clock
