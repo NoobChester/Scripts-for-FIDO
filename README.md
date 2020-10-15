@@ -32,6 +32,8 @@ Opera: https://addons.opera.com/en/extensions/details/stylus/
 
 1.3.1: Removes white stripe below the name list
 
+1.3.2: Better visibility for some words
+
 # 3. FIDO Clock
 Adds a clock to FIDO
 
