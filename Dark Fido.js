@@ -238,4 +238,8 @@ a.submit:hover,
 .empty-state {
     background-color: #000;
 }
+
+.component-action {
+    opacity: 0;
+}
 }
