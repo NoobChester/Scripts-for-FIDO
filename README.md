@@ -34,6 +34,8 @@ Opera: https://addons.opera.com/en/extensions/details/stylus/
 
 1.3.2: Better visibility for some words
 
+1.3.3: Patch for new fido update
+
 # 3. FIDO Clock
 Adds a clock to FIDO
 
