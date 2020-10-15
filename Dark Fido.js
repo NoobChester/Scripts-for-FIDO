@@ -105,7 +105,7 @@ button.submit,
 }
 
 h3 {
-    color: #fff;
+    color: #fff!important;
 }
 
 h2,
