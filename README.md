@@ -42,4 +42,6 @@ You could now replace your student image with an image or gif too! https://noobc
 # 3. FIDO Clock
 Adds a clock to FIDO
 
-Needs a scriptloader too, see "1. Skip FIDO login"
+Updates everytime the page is loading, helps reduce the chance of you misunderstanding the deadlines due to them not being updated to the current time.
+
+Needs a scriptloader too, see "1. Skip FIDO login (obsolete)"
