@@ -1,7 +1,7 @@
 # Scripts-for-FIDO
 # 1. Skip FIDO login (obsolete)
 
-**Logins can be saved in cookies now as a native feature.**
+**(Logins can be saved in cookies now as a native feature, making this script obsolete.**
 
 Skips the annoying FIDO login page by auto-clicking "login" (needs auto-fill to be active)
 
