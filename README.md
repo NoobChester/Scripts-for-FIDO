@@ -35,7 +35,7 @@ Opera: https://addons.opera.com/en/extensions/details/stylus/
 
 1.3.2: Better visibility for some words
 
-1.3.3 and 1.3.4: Patch for new fido update
+1.3.3  .4  .5: Patch for new fido update
 
 You could now replace your student image with an image or gif too! https://noobchester.github.io/Scripts-for-FIDO/
 
